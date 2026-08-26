@@ -27,13 +27,15 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Scrape real contribution data (no auth needed)
+        env:
+          GH_PROFILE_USER: luisssantos56
         run: python scripts/fetch_contributions.py
 
       - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py AVIVASHISHTA29 contrib-heatmap.svg
+        run: python scripts/generate_streak_svg.py luisssantos56 luis-heatmap.svg
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json luis-heatmap.svg"
