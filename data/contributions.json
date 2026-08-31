@@ -1,22 +1,22 @@
 {
   "username": "luisssantos56",
-  "generated_at": "2026-08-30T11:56:43Z",
+  "generated_at": "2026-08-31T13:55:03Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 17,
+  "active_days": 9,
+  "avg_per_active_day": 1.9,
+  "current_streak": {
+    "length": 5,
+    "start": "2026-08-26",
     "end": "2026-08-30"
   },
-  "total_contributions": 16,
-  "active_days": 8,
-  "avg_per_active_day": 2.0,
-  "current_streak": {
-    "length": 4,
-    "start": "2026-08-26",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 4,
+    "length": 5,
     "start": "2026-08-26",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-05-02",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 10
+      "total": 11
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
