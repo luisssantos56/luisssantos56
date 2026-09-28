@@ -1,0 +1,38 @@
+{
+  "name": "luisssantos56-profile",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Luis Santos GitHub Profile Web App",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisssantos56/luisssantos56.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisssantos56/luisssantos56/issues"
+  },
+  "homepage": "https://github.com/luisssantos56/luisssantos56#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vitejs/plugin-react": "^6.1.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}

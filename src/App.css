@@ -1,0 +1,90 @@
+.container {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.header h3 {
+  font-size: 1.2rem;
+  color: #58a6ff;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center;
+}
+
+.images {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ascii-portrait {
+  max-width: 370px;
+  width: 100%;
+  height: auto;
+}
+
+.wordmark {
+  max-width: 490px;
+  width: 100%;
+  height: auto;
+}
+
+.contributions {
+  width: 100%;
+  max-width: 860px;
+}
+
+.contributions h3 {
+  font-size: 1.2rem;
+  color: #58a6ff;
+  margin-bottom: 1rem;
+}
+
+.heatmap {
+  max-width: 860px;
+  width: 100%;
+  height: auto;
+}
+
+.links {
+  margin-top: 1rem;
+}
+
+.links h3 {
+  font-size: 1.2rem;
+  color: #58a6ff;
+  margin-bottom: 1rem;
+}
+
+.links a {
+  display: inline-block;
+  transition: transform 0.2s;
+}
+
+.links a:hover {
+  transform: scale(1.05);
+}
+
+.links img {
+  height: 28px;
+}
+
+@media (max-width: 768px) {
+  .images {
+    flex-direction: column;
+  }
+  
+  .ascii-portrait,
+  .wordmark {
+    max-width: 100%;
+  }
+}
