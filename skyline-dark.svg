@@ -1,29 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 469" width="860" height="469" role="img" aria-labelledby="t d">
-<title id="t">58 contributions in the last year</title>
+<title id="t">60 contributions in 2026</title>
 <desc id="d">Isometric skyline of the last year of GitHub activity for Luisssantos56: one tower per day, taller means more contributions.</desc>
 <style>svg{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.lb{font-size:13px;fill:#9198a1}.sb{font-size:12px;fill:#9198a1}.un{font-size:15px;fill:#e6edf3}.bv{font-size:40px;font-weight:600;letter-spacing:-.02em;fill:#39d353}.mo{font-size:10px;fill:#9198a1}.a0{fill:#161b22}.b0{fill:#12171d}.c0{fill:#0f1217}.a1{fill:#0e4429}.b1{fill:#0c3922}.c1{fill:#0a2e1c}.a2{fill:#006d32}.b2{fill:#005c2a}.c2{fill:#004a22}.a3{fill:#26a641}.b3{fill:#208b37}.c3{fill:#1a712c}.a4{fill:#39d353}.b4{fill:#30b146}.c4{fill:#278f38}.g,.t{animation:9.0s ease-in-out infinite both;animation-name:grow;animation-delay:var(--d)}.g{transform-box:fill-box;transform-origin:0 100%}.t{animation-name:lift}@keyframes grow{0%{transform:scaleY(0)}16%,60%{transform:scaleY(1)}76%,100%{transform:scaleY(0)}}@keyframes lift{0%{transform:translateY(0)}16%,60%{transform:translateY(var(--ny))}76%,100%{transform:translateY(0)}}@media (prefers-reduced-motion:reduce){.g,.t{animation:none}}</style>
 <g class="city">
-<polygon class="b0" points="151.2,30.6 161.7,36.5 161.7,33.7 151.2,27.9"/>
-<polygon class="c0" points="161.7,36.5 172.2,30.6 172.2,27.9 161.7,33.7"/>
-<polygon class="a0" points="161.7,22.0 172.2,27.9 161.7,33.7 151.2,27.9"/>
-<polygon class="b0" points="139.5,37.1 150.0,43.0 150.0,40.3 139.5,34.4"/>
-<polygon class="c0" points="150.0,43.0 160.5,37.1 160.5,34.4 150.0,40.3"/>
-<polygon class="a0" points="150.0,28.5 160.5,34.4 150.0,40.3 139.5,34.4"/>
 <polygon class="b0" points="162.8,37.1 173.3,43.0 173.3,40.3 162.8,34.4"/>
 <polygon class="c0" points="173.3,43.0 183.8,37.1 183.8,34.4 173.3,40.3"/>
 <polygon class="a0" points="173.3,28.5 183.8,34.4 173.3,40.3 162.8,34.4"/>
-<polygon class="b0" points="127.8,43.7 138.3,49.5 138.3,46.8 127.8,40.9"/>
-<polygon class="c0" points="138.3,49.5 148.8,43.7 148.8,40.9 138.3,46.8"/>
-<polygon class="a0" points="138.3,35.0 148.8,40.9 138.3,46.8 127.8,40.9"/>
 <polygon class="b0" points="151.2,43.7 161.7,49.5 161.7,46.8 151.2,40.9"/>
 <polygon class="c0" points="161.7,49.5 172.2,43.7 172.2,40.9 161.7,46.8"/>
 <polygon class="a0" points="161.7,35.0 172.2,40.9 161.7,46.8 151.2,40.9"/>
 <polygon class="b0" points="174.5,43.7 185.0,49.5 185.0,46.8 174.5,40.9"/>
 <polygon class="c0" points="185.0,49.5 195.5,43.7 195.5,40.9 185.0,46.8"/>
 <polygon class="a0" points="185.0,35.0 195.5,40.9 185.0,46.8 174.5,40.9"/>
-<polygon class="b0" points="116.2,50.2 126.7,56.1 126.7,53.3 116.2,47.4"/>
-<polygon class="c0" points="126.7,56.1 137.2,50.2 137.2,47.4 126.7,53.3"/>
-<polygon class="a0" points="126.7,41.6 137.2,47.4 126.7,53.3 116.2,47.4"/>
 <polygon class="b0" points="139.5,50.2 150.0,56.1 150.0,53.3 139.5,47.4"/>
 <polygon class="c0" points="150.0,56.1 160.5,50.2 160.5,47.4 150.0,53.3"/>
 <polygon class="a0" points="150.0,41.6 160.5,47.4 150.0,53.3 139.5,47.4"/>
@@ -387,9 +375,11 @@
 <polygon class="b0" points="279.5,167.6 290.0,173.5 290.0,170.8 279.5,164.9"/>
 <polygon class="c0" points="290.0,173.5 300.5,167.6 300.5,164.9 290.0,170.8"/>
 <polygon class="a0" points="290.0,159.0 300.5,164.9 290.0,170.8 279.5,164.9"/>
-<polygon class="b0" points="302.8,167.6 313.3,173.5 313.3,170.8 302.8,164.9"/>
-<polygon class="c0" points="313.3,173.5 323.8,167.6 323.8,164.9 313.3,170.8"/>
-<polygon class="a0" points="313.3,159.0 323.8,164.9 313.3,170.8 302.8,164.9"/>
+<g style="--d:0.72s;--ny:-24.3px">
+<g transform="translate(302.8 167.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(313.3 173.5) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="313.3,161.7 323.8,167.6 313.3,173.5 302.8,167.6"/>
+</g>
 <polygon class="b0" points="326.2,167.6 336.7,173.5 336.7,170.8 326.2,164.9"/>
 <polygon class="c0" points="336.7,173.5 347.2,167.6 347.2,164.9 336.7,170.8"/>
 <polygon class="a0" points="336.7,159.0 347.2,164.9 336.7,170.8 326.2,164.9"/>
@@ -423,9 +413,11 @@
 <polygon class="b0" points="407.8,174.1 418.3,180.0 418.3,177.3 407.8,171.4"/>
 <polygon class="c0" points="418.3,180.0 428.8,174.1 428.8,171.4 418.3,177.3"/>
 <polygon class="a0" points="418.3,165.5 428.8,171.4 418.3,177.3 407.8,171.4"/>
-<polygon class="b0" points="279.5,180.7 290.0,186.5 290.0,183.8 279.5,177.9"/>
-<polygon class="c0" points="290.0,186.5 300.5,180.7 300.5,177.9 290.0,183.8"/>
-<polygon class="a0" points="290.0,172.1 300.5,177.9 290.0,183.8 279.5,177.9"/>
+<g style="--d:0.79s;--ny:-66.7px">
+<g transform="translate(279.5 180.7) skewY(29.21)"><rect class="g b4" y="-66.7" width="10.5" height="66.7"/></g>
+<g transform="translate(290.0 186.5) skewY(-29.21)"><rect class="g c4" y="-66.7" width="10.5" height="66.7"/></g>
+<polygon class="t a4" points="290.0,174.8 300.5,180.7 290.0,186.5 279.5,180.7"/>
+</g>
 <polygon class="b0" points="302.8,180.7 313.3,186.5 313.3,183.8 302.8,177.9"/>
 <polygon class="c0" points="313.3,186.5 323.8,180.7 323.8,177.9 313.3,183.8"/>
 <polygon class="a0" points="313.3,172.1 323.8,177.9 313.3,183.8 302.8,177.9"/>
@@ -579,9 +571,11 @@
 <polygon class="b0" points="407.8,226.3 418.3,232.2 418.3,229.5 407.8,223.6"/>
 <polygon class="c0" points="418.3,232.2 428.8,226.3 428.8,223.6 418.3,229.5"/>
 <polygon class="a0" points="418.3,217.7 428.8,223.6 418.3,229.5 407.8,223.6"/>
-<polygon class="b0" points="431.2,226.3 441.7,232.2 441.7,229.5 431.2,223.6"/>
-<polygon class="c0" points="441.7,232.2 452.2,226.3 452.2,223.6 441.7,229.5"/>
-<polygon class="a0" points="441.7,217.7 452.2,223.6 441.7,229.5 431.2,223.6"/>
+<g style="--d:1.03s;--ny:-24.3px">
+<g transform="translate(431.2 226.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(441.7 232.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="441.7,220.5 452.2,226.3 441.7,232.2 431.2,226.3"/>
+</g>
 <polygon class="b0" points="454.5,226.3 465.0,232.2 465.0,229.5 454.5,223.6"/>
 <polygon class="c0" points="465.0,232.2 475.5,226.3 475.5,223.6 465.0,229.5"/>
 <polygon class="a0" points="465.0,217.7 475.5,223.6 465.0,229.5 454.5,223.6"/>
@@ -618,11 +612,9 @@
 <polygon class="b0" points="407.8,239.4 418.3,245.3 418.3,242.5 407.8,236.6"/>
 <polygon class="c0" points="418.3,245.3 428.8,239.4 428.8,236.6 418.3,242.5"/>
 <polygon class="a0" points="418.3,230.8 428.8,236.6 418.3,242.5 407.8,236.6"/>
-<g style="--d:1.10s;--ny:-24.3px">
-<g transform="translate(431.2 239.4) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(441.7 245.3) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="441.7,233.5 452.2,239.4 441.7,245.3 431.2,239.4"/>
-</g>
+<polygon class="b0" points="431.2,239.4 441.7,245.3 441.7,242.5 431.2,236.6"/>
+<polygon class="c0" points="441.7,245.3 452.2,239.4 452.2,236.6 441.7,242.5"/>
+<polygon class="a0" points="441.7,230.8 452.2,236.6 441.7,242.5 431.2,236.6"/>
 <polygon class="b0" points="454.5,239.4 465.0,245.3 465.0,242.5 454.5,236.6"/>
 <polygon class="c0" points="465.0,245.3 475.5,239.4 475.5,236.6 465.0,242.5"/>
 <polygon class="a0" points="465.0,230.8 475.5,236.6 465.0,242.5 454.5,236.6"/>
@@ -656,11 +648,9 @@
 <polygon class="b0" points="536.2,245.9 546.7,251.8 546.7,249.0 536.2,243.2"/>
 <polygon class="c0" points="546.7,251.8 557.2,245.9 557.2,243.2 546.7,249.0"/>
 <polygon class="a0" points="546.7,237.3 557.2,243.2 546.7,249.0 536.2,243.2"/>
-<g style="--d:1.17s;--ny:-66.7px">
-<g transform="translate(407.8 252.4) skewY(29.21)"><rect class="g b4" y="-66.7" width="10.5" height="66.7"/></g>
-<g transform="translate(418.3 258.3) skewY(-29.21)"><rect class="g c4" y="-66.7" width="10.5" height="66.7"/></g>
-<polygon class="t a4" points="418.3,246.6 428.8,252.4 418.3,258.3 407.8,252.4"/>
-</g>
+<polygon class="b0" points="407.8,252.4 418.3,258.3 418.3,255.6 407.8,249.7"/>
+<polygon class="c0" points="418.3,258.3 428.8,252.4 428.8,249.7 418.3,255.6"/>
+<polygon class="a0" points="418.3,243.8 428.8,249.7 418.3,255.6 407.8,249.7"/>
 <polygon class="b0" points="431.2,252.4 441.7,258.3 441.7,255.6 431.2,249.7"/>
 <polygon class="c0" points="441.7,258.3 452.2,252.4 452.2,249.7 441.7,255.6"/>
 <polygon class="a0" points="441.7,243.8 452.2,249.7 441.7,255.6 431.2,249.7"/>
@@ -670,9 +660,11 @@
 <polygon class="b0" points="477.8,252.4 488.3,258.3 488.3,255.6 477.8,249.7"/>
 <polygon class="c0" points="488.3,258.3 498.8,252.4 498.8,249.7 488.3,255.6"/>
 <polygon class="a0" points="488.3,243.8 498.8,249.7 488.3,255.6 477.8,249.7"/>
-<polygon class="b0" points="501.2,252.4 511.7,258.3 511.7,255.6 501.2,249.7"/>
-<polygon class="c0" points="511.7,258.3 522.2,252.4 522.2,249.7 511.7,255.6"/>
-<polygon class="a0" points="511.7,243.8 522.2,249.7 511.7,255.6 501.2,249.7"/>
+<g style="--d:1.17s;--ny:-53.4px">
+<g transform="translate(501.2 252.4) skewY(29.21)"><rect class="g b4" y="-53.4" width="10.5" height="53.4"/></g>
+<g transform="translate(511.7 258.3) skewY(-29.21)"><rect class="g c4" y="-53.4" width="10.5" height="53.4"/></g>
+<polygon class="t a4" points="511.7,246.6 522.2,252.4 511.7,258.3 501.2,252.4"/>
+</g>
 <polygon class="b0" points="524.5,252.4 535.0,258.3 535.0,255.6 524.5,249.7"/>
 <polygon class="c0" points="535.0,258.3 545.5,252.4 545.5,249.7 535.0,255.6"/>
 <polygon class="a0" points="535.0,243.8 545.5,249.7 535.0,255.6 524.5,249.7"/>
@@ -697,9 +689,11 @@
 <polygon class="b0" points="536.2,259.0 546.7,264.8 546.7,262.1 536.2,256.2"/>
 <polygon class="c0" points="546.7,264.8 557.2,259.0 557.2,256.2 546.7,262.1"/>
 <polygon class="a0" points="546.7,250.3 557.2,256.2 546.7,262.1 536.2,256.2"/>
-<polygon class="b0" points="559.5,259.0 570.0,264.8 570.0,262.1 559.5,256.2"/>
-<polygon class="c0" points="570.0,264.8 580.5,259.0 580.5,256.2 570.0,262.1"/>
-<polygon class="a0" points="570.0,250.3 580.5,256.2 570.0,262.1 559.5,256.2"/>
+<g style="--d:1.21s;--ny:-24.3px">
+<g transform="translate(559.5 259.0) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(570.0 264.8) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="570.0,253.1 580.5,259.0 570.0,264.8 559.5,259.0"/>
+</g>
 <polygon class="b0" points="431.2,265.5 441.7,271.4 441.7,268.6 431.2,262.7"/>
 <polygon class="c0" points="441.7,271.4 452.2,265.5 452.2,262.7 441.7,268.6"/>
 <polygon class="a0" points="441.7,256.9 452.2,262.7 441.7,268.6 431.2,262.7"/>
@@ -715,12 +709,16 @@
 <polygon class="b0" points="524.5,265.5 535.0,271.4 535.0,268.6 524.5,262.7"/>
 <polygon class="c0" points="535.0,271.4 545.5,265.5 545.5,262.7 535.0,268.6"/>
 <polygon class="a0" points="535.0,256.9 545.5,262.7 535.0,268.6 524.5,262.7"/>
-<polygon class="b0" points="547.8,265.5 558.3,271.4 558.3,268.6 547.8,262.7"/>
-<polygon class="c0" points="558.3,271.4 568.8,265.5 568.8,262.7 558.3,268.6"/>
-<polygon class="a0" points="558.3,256.9 568.8,262.7 558.3,268.6 547.8,262.7"/>
-<polygon class="b0" points="571.2,265.5 581.7,271.4 581.7,268.6 571.2,262.7"/>
-<polygon class="c0" points="581.7,271.4 592.2,265.5 592.2,262.7 581.7,268.6"/>
-<polygon class="a0" points="581.7,256.9 592.2,262.7 581.7,268.6 571.2,262.7"/>
+<g style="--d:1.24s;--ny:-24.3px">
+<g transform="translate(547.8 265.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(558.3 271.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="558.3,259.6 568.8,265.5 558.3,271.4 547.8,265.5"/>
+</g>
+<g style="--d:1.25s;--ny:-24.3px">
+<g transform="translate(571.2 265.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(581.7 271.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="581.7,259.6 592.2,265.5 581.7,271.4 571.2,265.5"/>
+</g>
 <polygon class="b0" points="442.8,272.0 453.3,277.9 453.3,275.1 442.8,269.3"/>
 <polygon class="c0" points="453.3,277.9 463.8,272.0 463.8,269.3 453.3,275.1"/>
 <polygon class="a0" points="453.3,263.4 463.8,269.3 453.3,275.1 442.8,269.3"/>
@@ -730,113 +728,171 @@
 <polygon class="b0" points="489.5,272.0 500.0,277.9 500.0,275.1 489.5,269.3"/>
 <polygon class="c0" points="500.0,277.9 510.5,272.0 510.5,269.3 500.0,275.1"/>
 <polygon class="a0" points="500.0,263.4 510.5,269.3 500.0,275.1 489.5,269.3"/>
-<polygon class="b0" points="512.8,272.0 523.3,277.9 523.3,275.1 512.8,269.3"/>
-<polygon class="c0" points="523.3,277.9 533.8,272.0 533.8,269.3 523.3,275.1"/>
-<polygon class="a0" points="523.3,263.4 533.8,269.3 523.3,275.1 512.8,269.3"/>
-<polygon class="b0" points="536.2,272.0 546.7,277.9 546.7,275.1 536.2,269.3"/>
-<polygon class="c0" points="546.7,277.9 557.2,272.0 557.2,269.3 546.7,275.1"/>
-<polygon class="a0" points="546.7,263.4 557.2,269.3 546.7,275.1 536.2,269.3"/>
-<polygon class="b0" points="559.5,272.0 570.0,277.9 570.0,275.1 559.5,269.3"/>
-<polygon class="c0" points="570.0,277.9 580.5,272.0 580.5,269.3 570.0,275.1"/>
-<polygon class="a0" points="570.0,263.4 580.5,269.3 570.0,275.1 559.5,269.3"/>
-<polygon class="b0" points="582.8,272.0 593.3,277.9 593.3,275.1 582.8,269.3"/>
-<polygon class="c0" points="593.3,277.9 603.8,272.0 603.8,269.3 593.3,275.1"/>
-<polygon class="a0" points="593.3,263.4 603.8,269.3 593.3,275.1 582.8,269.3"/>
+<g style="--d:1.28s;--ny:-66.7px">
+<g transform="translate(512.8 272.0) skewY(29.21)"><rect class="g b4" y="-66.7" width="10.5" height="66.7"/></g>
+<g transform="translate(523.3 277.9) skewY(-29.21)"><rect class="g c4" y="-66.7" width="10.5" height="66.7"/></g>
+<polygon class="t a4" points="523.3,266.1 533.8,272.0 523.3,277.9 512.8,272.0"/>
+</g>
+<g style="--d:1.28s;--ny:-24.3px">
+<g transform="translate(536.2 272.0) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(546.7 277.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="546.7,266.1 557.2,272.0 546.7,277.9 536.2,272.0"/>
+</g>
+<g style="--d:1.28s;--ny:-104.0px">
+<g transform="translate(559.5 272.0) skewY(29.21)"><rect class="g b4" y="-104.0" width="10.5" height="104.0"/></g>
+<g transform="translate(570.0 277.9) skewY(-29.21)"><rect class="g c4" y="-104.0" width="10.5" height="104.0"/></g>
+<polygon class="t a4" points="570.0,266.1 580.5,272.0 570.0,277.9 559.5,272.0"/>
+</g>
+<g style="--d:1.28s;--ny:-24.3px">
+<g transform="translate(582.8 272.0) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(593.3 277.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="593.3,266.1 603.8,272.0 593.3,277.9 582.8,272.0"/>
+</g>
 <polygon class="b0" points="454.5,278.5 465.0,284.4 465.0,281.7 454.5,275.8"/>
 <polygon class="c0" points="465.0,284.4 475.5,278.5 475.5,275.8 465.0,281.7"/>
 <polygon class="a0" points="465.0,269.9 475.5,275.8 465.0,281.7 454.5,275.8"/>
 <polygon class="b0" points="477.8,278.5 488.3,284.4 488.3,281.7 477.8,275.8"/>
 <polygon class="c0" points="488.3,284.4 498.8,278.5 498.8,275.8 488.3,281.7"/>
 <polygon class="a0" points="488.3,269.9 498.8,275.8 488.3,281.7 477.8,275.8"/>
-<polygon class="b0" points="501.2,278.5 511.7,284.4 511.7,281.7 501.2,275.8"/>
-<polygon class="c0" points="511.7,284.4 522.2,278.5 522.2,275.8 511.7,281.7"/>
-<polygon class="a0" points="511.7,269.9 522.2,275.8 511.7,281.7 501.2,275.8"/>
-<polygon class="b0" points="524.5,278.5 535.0,284.4 535.0,281.7 524.5,275.8"/>
-<polygon class="c0" points="535.0,284.4 545.5,278.5 545.5,275.8 535.0,281.7"/>
-<polygon class="a0" points="535.0,269.9 545.5,275.8 535.0,281.7 524.5,275.8"/>
-<polygon class="b0" points="547.8,278.5 558.3,284.4 558.3,281.7 547.8,275.8"/>
-<polygon class="c0" points="558.3,284.4 568.8,278.5 568.8,275.8 558.3,281.7"/>
-<polygon class="a0" points="558.3,269.9 568.8,275.8 558.3,281.7 547.8,275.8"/>
-<polygon class="b0" points="571.2,278.5 581.7,284.4 581.7,281.7 571.2,275.8"/>
-<polygon class="c0" points="581.7,284.4 592.2,278.5 592.2,275.8 581.7,281.7"/>
-<polygon class="a0" points="581.7,269.9 592.2,275.8 581.7,281.7 571.2,275.8"/>
-<polygon class="b0" points="594.5,278.5 605.0,284.4 605.0,281.7 594.5,275.8"/>
-<polygon class="c0" points="605.0,284.4 615.5,278.5 615.5,275.8 605.0,281.7"/>
-<polygon class="a0" points="605.0,269.9 615.5,275.8 605.0,281.7 594.5,275.8"/>
+<g style="--d:1.31s;--ny:-24.3px">
+<g transform="translate(501.2 278.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(511.7 284.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="511.7,272.7 522.2,278.5 511.7,284.4 501.2,278.5"/>
+</g>
+<g style="--d:1.31s;--ny:-24.3px">
+<g transform="translate(524.5 278.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(535.0 284.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="535.0,272.7 545.5,278.5 535.0,284.4 524.5,278.5"/>
+</g>
+<g style="--d:1.31s;--ny:-24.3px">
+<g transform="translate(547.8 278.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(558.3 284.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="558.3,272.7 568.8,278.5 558.3,284.4 547.8,278.5"/>
+</g>
+<g style="--d:1.31s;--ny:-24.3px">
+<g transform="translate(571.2 278.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(581.7 284.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="581.7,272.7 592.2,278.5 581.7,284.4 571.2,278.5"/>
+</g>
+<g style="--d:1.32s;--ny:-24.3px">
+<g transform="translate(594.5 278.5) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(605.0 284.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="605.0,272.7 615.5,278.5 605.0,284.4 594.5,278.5"/>
+</g>
 <polygon class="b0" points="466.2,285.1 476.7,290.9 476.7,288.2 466.2,282.3"/>
 <polygon class="c0" points="476.7,290.9 487.2,285.1 487.2,282.3 476.7,288.2"/>
 <polygon class="a0" points="476.7,276.4 487.2,282.3 476.7,288.2 466.2,282.3"/>
-<polygon class="b0" points="489.5,285.1 500.0,290.9 500.0,288.2 489.5,282.3"/>
-<polygon class="c0" points="500.0,290.9 510.5,285.1 510.5,282.3 500.0,288.2"/>
-<polygon class="a0" points="500.0,276.4 510.5,282.3 500.0,288.2 489.5,282.3"/>
-<polygon class="b0" points="512.8,285.1 523.3,290.9 523.3,288.2 512.8,282.3"/>
-<polygon class="c0" points="523.3,290.9 533.8,285.1 533.8,282.3 523.3,288.2"/>
-<polygon class="a0" points="523.3,276.4 533.8,282.3 523.3,288.2 512.8,282.3"/>
-<polygon class="b0" points="536.2,285.1 546.7,290.9 546.7,288.2 536.2,282.3"/>
-<polygon class="c0" points="546.7,290.9 557.2,285.1 557.2,282.3 546.7,288.2"/>
-<polygon class="a0" points="546.7,276.4 557.2,282.3 546.7,288.2 536.2,282.3"/>
-<polygon class="b0" points="559.5,285.1 570.0,290.9 570.0,288.2 559.5,282.3"/>
-<polygon class="c0" points="570.0,290.9 580.5,285.1 580.5,282.3 570.0,288.2"/>
-<polygon class="a0" points="570.0,276.4 580.5,282.3 570.0,288.2 559.5,282.3"/>
-<polygon class="b0" points="582.8,285.1 593.3,290.9 593.3,288.2 582.8,282.3"/>
-<polygon class="c0" points="593.3,290.9 603.8,285.1 603.8,282.3 593.3,288.2"/>
-<polygon class="a0" points="593.3,276.4 603.8,282.3 593.3,288.2 582.8,282.3"/>
-<polygon class="b0" points="606.2,285.1 616.7,290.9 616.7,288.2 606.2,282.3"/>
-<polygon class="c0" points="616.7,290.9 627.2,285.1 627.2,282.3 616.7,288.2"/>
-<polygon class="a0" points="616.7,276.4 627.2,282.3 616.7,288.2 606.2,282.3"/>
-<polygon class="b0" points="477.8,291.6 488.3,297.4 488.3,294.7 477.8,288.8"/>
-<polygon class="c0" points="488.3,297.4 498.8,291.6 498.8,288.8 488.3,294.7"/>
-<polygon class="a0" points="488.3,283.0 498.8,288.8 488.3,294.7 477.8,288.8"/>
-<polygon class="b0" points="501.2,291.6 511.7,297.4 511.7,294.7 501.2,288.8"/>
-<polygon class="c0" points="511.7,297.4 522.2,291.6 522.2,288.8 511.7,294.7"/>
-<polygon class="a0" points="511.7,283.0 522.2,288.8 511.7,294.7 501.2,288.8"/>
-<polygon class="b0" points="524.5,291.6 535.0,297.4 535.0,294.7 524.5,288.8"/>
-<polygon class="c0" points="535.0,297.4 545.5,291.6 545.5,288.8 535.0,294.7"/>
-<polygon class="a0" points="535.0,283.0 545.5,288.8 535.0,294.7 524.5,288.8"/>
-<polygon class="b0" points="547.8,291.6 558.3,297.4 558.3,294.7 547.8,288.8"/>
-<polygon class="c0" points="558.3,297.4 568.8,291.6 568.8,288.8 558.3,294.7"/>
-<polygon class="a0" points="558.3,283.0 568.8,288.8 558.3,294.7 547.8,288.8"/>
-<polygon class="b0" points="571.2,291.6 581.7,297.4 581.7,294.7 571.2,288.8"/>
-<polygon class="c0" points="581.7,297.4 592.2,291.6 592.2,288.8 581.7,294.7"/>
-<polygon class="a0" points="581.7,283.0 592.2,288.8 581.7,294.7 571.2,288.8"/>
-<polygon class="b0" points="594.5,291.6 605.0,297.4 605.0,294.7 594.5,288.8"/>
-<polygon class="c0" points="605.0,297.4 615.5,291.6 615.5,288.8 605.0,294.7"/>
-<polygon class="a0" points="605.0,283.0 615.5,288.8 605.0,294.7 594.5,288.8"/>
+<g style="--d:1.34s;--ny:-24.3px">
+<g transform="translate(489.5 285.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(500.0 290.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="500.0,279.2 510.5,285.1 500.0,290.9 489.5,285.1"/>
+</g>
+<g style="--d:1.34s;--ny:-24.3px">
+<g transform="translate(512.8 285.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(523.3 290.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="523.3,279.2 533.8,285.1 523.3,290.9 512.8,285.1"/>
+</g>
+<g style="--d:1.35s;--ny:-24.3px">
+<g transform="translate(536.2 285.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(546.7 290.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="546.7,279.2 557.2,285.1 546.7,290.9 536.2,285.1"/>
+</g>
+<g style="--d:1.35s;--ny:-39.4px">
+<g transform="translate(559.5 285.1) skewY(29.21)"><rect class="g b3" y="-39.4" width="10.5" height="39.4"/></g>
+<g transform="translate(570.0 290.9) skewY(-29.21)"><rect class="g c3" y="-39.4" width="10.5" height="39.4"/></g>
+<polygon class="t a3" points="570.0,279.2 580.5,285.1 570.0,290.9 559.5,285.1"/>
+</g>
+<g style="--d:1.35s;--ny:-24.3px">
+<g transform="translate(582.8 285.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(593.3 290.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="593.3,279.2 603.8,285.1 593.3,290.9 582.8,285.1"/>
+</g>
+<g style="--d:1.35s;--ny:-24.3px">
+<g transform="translate(606.2 285.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(616.7 290.9) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="616.7,279.2 627.2,285.1 616.7,290.9 606.2,285.1"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(477.8 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(488.3 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="488.3,285.7 498.8,291.6 488.3,297.4 477.8,291.6"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(501.2 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(511.7 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="511.7,285.7 522.2,291.6 511.7,297.4 501.2,291.6"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(524.5 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(535.0 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="535.0,285.7 545.5,291.6 535.0,297.4 524.5,291.6"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(547.8 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(558.3 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="558.3,285.7 568.8,291.6 558.3,297.4 547.8,291.6"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(571.2 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(581.7 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="581.7,285.7 592.2,291.6 581.7,297.4 571.2,291.6"/>
+</g>
+<g style="--d:1.38s;--ny:-24.3px">
+<g transform="translate(594.5 291.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(605.0 297.4) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="605.0,285.7 615.5,291.6 605.0,297.4 594.5,291.6"/>
+</g>
 <polygon class="b0" points="617.8,291.6 628.3,297.4 628.3,294.7 617.8,288.8"/>
 <polygon class="c0" points="628.3,297.4 638.8,291.6 638.8,288.8 628.3,294.7"/>
 <polygon class="a0" points="628.3,283.0 638.8,288.8 628.3,294.7 617.8,288.8"/>
-<polygon class="b0" points="489.5,298.1 500.0,304.0 500.0,301.2 489.5,295.4"/>
-<polygon class="c0" points="500.0,304.0 510.5,298.1 510.5,295.4 500.0,301.2"/>
-<polygon class="a0" points="500.0,289.5 510.5,295.4 500.0,301.2 489.5,295.4"/>
-<polygon class="b0" points="512.8,298.1 523.3,304.0 523.3,301.2 512.8,295.4"/>
-<polygon class="c0" points="523.3,304.0 533.8,298.1 533.8,295.4 523.3,301.2"/>
-<polygon class="a0" points="523.3,289.5 533.8,295.4 523.3,301.2 512.8,295.4"/>
-<polygon class="b0" points="536.2,298.1 546.7,304.0 546.7,301.2 536.2,295.4"/>
-<polygon class="c0" points="546.7,304.0 557.2,298.1 557.2,295.4 546.7,301.2"/>
-<polygon class="a0" points="546.7,289.5 557.2,295.4 546.7,301.2 536.2,295.4"/>
+<g style="--d:1.41s;--ny:-24.3px">
+<g transform="translate(489.5 298.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(500.0 304.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="500.0,292.2 510.5,298.1 500.0,304.0 489.5,298.1"/>
+</g>
+<g style="--d:1.41s;--ny:-24.3px">
+<g transform="translate(512.8 298.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(523.3 304.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="523.3,292.2 533.8,298.1 523.3,304.0 512.8,298.1"/>
+</g>
+<g style="--d:1.41s;--ny:-24.3px">
+<g transform="translate(536.2 298.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(546.7 304.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="546.7,292.2 557.2,298.1 546.7,304.0 536.2,298.1"/>
+</g>
 <g style="--d:1.42s;--ny:-24.3px">
 <g transform="translate(559.5 298.1) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
 <g transform="translate(570.0 304.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
 <polygon class="t a2" points="570.0,292.2 580.5,298.1 570.0,304.0 559.5,298.1"/>
 </g>
-<polygon class="b0" points="582.8,298.1 593.3,304.0 593.3,301.2 582.8,295.4"/>
-<polygon class="c0" points="593.3,304.0 603.8,298.1 603.8,295.4 593.3,301.2"/>
-<polygon class="a0" points="593.3,289.5 603.8,295.4 593.3,301.2 582.8,295.4"/>
+<g style="--d:1.42s;--ny:-53.4px">
+<g transform="translate(582.8 298.1) skewY(29.21)"><rect class="g b4" y="-53.4" width="10.5" height="53.4"/></g>
+<g transform="translate(593.3 304.0) skewY(-29.21)"><rect class="g c4" y="-53.4" width="10.5" height="53.4"/></g>
+<polygon class="t a4" points="593.3,292.2 603.8,298.1 593.3,304.0 582.8,298.1"/>
+</g>
 <polygon class="b0" points="606.2,298.1 616.7,304.0 616.7,301.2 606.2,295.4"/>
 <polygon class="c0" points="616.7,304.0 627.2,298.1 627.2,295.4 616.7,301.2"/>
 <polygon class="a0" points="616.7,289.5 627.2,295.4 616.7,301.2 606.2,295.4"/>
-<polygon class="b0" points="629.5,298.1 640.0,304.0 640.0,301.2 629.5,295.4"/>
-<polygon class="c0" points="640.0,304.0 650.5,298.1 650.5,295.4 640.0,301.2"/>
-<polygon class="a0" points="640.0,289.5 650.5,295.4 640.0,301.2 629.5,295.4"/>
-<polygon class="b0" points="501.2,304.6 511.7,310.5 511.7,307.8 501.2,301.9"/>
-<polygon class="c0" points="511.7,310.5 522.2,304.6 522.2,301.9 511.7,307.8"/>
-<polygon class="a0" points="511.7,296.0 522.2,301.9 511.7,307.8 501.2,301.9"/>
-<polygon class="b0" points="524.5,304.6 535.0,310.5 535.0,307.8 524.5,301.9"/>
-<polygon class="c0" points="535.0,310.5 545.5,304.6 545.5,301.9 535.0,307.8"/>
-<polygon class="a0" points="535.0,296.0 545.5,301.9 535.0,307.8 524.5,301.9"/>
-<polygon class="b0" points="547.8,304.6 558.3,310.5 558.3,307.8 547.8,301.9"/>
-<polygon class="c0" points="558.3,310.5 568.8,304.6 568.8,301.9 558.3,307.8"/>
-<polygon class="a0" points="558.3,296.0 568.8,301.9 558.3,307.8 547.8,301.9"/>
+<g style="--d:1.42s;--ny:-53.4px">
+<g transform="translate(629.5 298.1) skewY(29.21)"><rect class="g b4" y="-53.4" width="10.5" height="53.4"/></g>
+<g transform="translate(640.0 304.0) skewY(-29.21)"><rect class="g c4" y="-53.4" width="10.5" height="53.4"/></g>
+<polygon class="t a4" points="640.0,292.2 650.5,298.1 640.0,304.0 629.5,298.1"/>
+</g>
+<g style="--d:1.45s;--ny:-24.3px">
+<g transform="translate(501.2 304.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(511.7 310.5) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="511.7,298.8 522.2,304.6 511.7,310.5 501.2,304.6"/>
+</g>
+<g style="--d:1.45s;--ny:-24.3px">
+<g transform="translate(524.5 304.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(535.0 310.5) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="535.0,298.8 545.5,304.6 535.0,310.5 524.5,304.6"/>
+</g>
+<g style="--d:1.45s;--ny:-24.3px">
+<g transform="translate(547.8 304.6) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(558.3 310.5) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="558.3,298.8 568.8,304.6 558.3,310.5 547.8,304.6"/>
+</g>
 <polygon class="b0" points="571.2,304.6 581.7,310.5 581.7,307.8 571.2,301.9"/>
 <polygon class="c0" points="581.7,310.5 592.2,304.6 592.2,301.9 581.7,307.8"/>
 <polygon class="a0" points="581.7,296.0 592.2,301.9 581.7,307.8 571.2,301.9"/>
@@ -849,18 +905,24 @@
 <polygon class="b0" points="641.2,304.6 651.7,310.5 651.7,307.8 641.2,301.9"/>
 <polygon class="c0" points="651.7,310.5 662.2,304.6 662.2,301.9 651.7,307.8"/>
 <polygon class="a0" points="651.7,296.0 662.2,301.9 651.7,307.8 641.2,301.9"/>
-<polygon class="b0" points="512.8,311.2 523.3,317.0 523.3,314.3 512.8,308.4"/>
-<polygon class="c0" points="523.3,317.0 533.8,311.2 533.8,308.4 523.3,314.3"/>
-<polygon class="a0" points="523.3,302.5 533.8,308.4 523.3,314.3 512.8,308.4"/>
-<polygon class="b0" points="536.2,311.2 546.7,317.0 546.7,314.3 536.2,308.4"/>
-<polygon class="c0" points="546.7,317.0 557.2,311.2 557.2,308.4 546.7,314.3"/>
-<polygon class="a0" points="546.7,302.5 557.2,308.4 546.7,314.3 536.2,308.4"/>
+<g style="--d:1.48s;--ny:-24.3px">
+<g transform="translate(512.8 311.2) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(523.3 317.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="523.3,305.3 533.8,311.2 523.3,317.0 512.8,311.2"/>
+</g>
+<g style="--d:1.48s;--ny:-24.3px">
+<g transform="translate(536.2 311.2) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(546.7 317.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="546.7,305.3 557.2,311.2 546.7,317.0 536.2,311.2"/>
+</g>
 <polygon class="b0" points="559.5,311.2 570.0,317.0 570.0,314.3 559.5,308.4"/>
 <polygon class="c0" points="570.0,317.0 580.5,311.2 580.5,308.4 570.0,314.3"/>
 <polygon class="a0" points="570.0,302.5 580.5,308.4 570.0,314.3 559.5,308.4"/>
-<polygon class="b0" points="582.8,311.2 593.3,317.0 593.3,314.3 582.8,308.4"/>
-<polygon class="c0" points="593.3,317.0 603.8,311.2 603.8,308.4 593.3,314.3"/>
-<polygon class="a0" points="593.3,302.5 603.8,308.4 593.3,314.3 582.8,308.4"/>
+<g style="--d:1.48s;--ny:-24.3px">
+<g transform="translate(582.8 311.2) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(593.3 317.0) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="593.3,305.3 603.8,311.2 593.3,317.0 582.8,311.2"/>
+</g>
 <polygon class="b0" points="606.2,311.2 616.7,317.0 616.7,314.3 606.2,308.4"/>
 <polygon class="c0" points="616.7,317.0 627.2,311.2 627.2,308.4 616.7,314.3"/>
 <polygon class="a0" points="616.7,302.5 627.2,308.4 616.7,314.3 606.2,308.4"/>
@@ -870,9 +932,11 @@
 <polygon class="b0" points="652.8,311.2 663.3,317.0 663.3,314.3 652.8,308.4"/>
 <polygon class="c0" points="663.3,317.0 673.8,311.2 673.8,308.4 663.3,314.3"/>
 <polygon class="a0" points="663.3,302.5 673.8,308.4 663.3,314.3 652.8,308.4"/>
-<polygon class="b0" points="524.5,317.7 535.0,323.5 535.0,320.8 524.5,314.9"/>
-<polygon class="c0" points="535.0,323.5 545.5,317.7 545.5,314.9 535.0,320.8"/>
-<polygon class="a0" points="535.0,309.1 545.5,314.9 535.0,320.8 524.5,314.9"/>
+<g style="--d:1.52s;--ny:-24.3px">
+<g transform="translate(524.5 317.7) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
+<g transform="translate(535.0 323.5) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
+<polygon class="t a2" points="535.0,311.8 545.5,317.7 535.0,323.5 524.5,317.7"/>
+</g>
 <polygon class="b0" points="547.8,317.7 558.3,323.5 558.3,320.8 547.8,314.9"/>
 <polygon class="c0" points="558.3,323.5 568.8,317.7 568.8,314.9 558.3,320.8"/>
 <polygon class="a0" points="558.3,309.1 568.8,314.9 558.3,320.8 547.8,314.9"/>
@@ -903,11 +967,9 @@
 <polygon class="b0" points="606.2,324.2 616.7,330.1 616.7,327.3 606.2,321.5"/>
 <polygon class="c0" points="616.7,330.1 627.2,324.2 627.2,321.5 616.7,327.3"/>
 <polygon class="a0" points="616.7,315.6 627.2,321.5 616.7,327.3 606.2,321.5"/>
-<g style="--d:1.56s;--ny:-53.4px">
-<g transform="translate(629.5 324.2) skewY(29.21)"><rect class="g b4" y="-53.4" width="10.5" height="53.4"/></g>
-<g transform="translate(640.0 330.1) skewY(-29.21)"><rect class="g c4" y="-53.4" width="10.5" height="53.4"/></g>
-<polygon class="t a4" points="640.0,318.3 650.5,324.2 640.0,330.1 629.5,324.2"/>
-</g>
+<polygon class="b0" points="629.5,324.2 640.0,330.1 640.0,327.3 629.5,321.5"/>
+<polygon class="c0" points="640.0,330.1 650.5,324.2 650.5,321.5 640.0,327.3"/>
+<polygon class="a0" points="640.0,315.6 650.5,321.5 640.0,327.3 629.5,321.5"/>
 <polygon class="b0" points="652.8,324.2 663.3,330.1 663.3,327.3 652.8,321.5"/>
 <polygon class="c0" points="663.3,330.1 673.8,324.2 673.8,321.5 663.3,327.3"/>
 <polygon class="a0" points="663.3,315.6 673.8,321.5 663.3,327.3 652.8,321.5"/>
@@ -932,11 +994,9 @@
 <polygon class="b0" points="664.5,330.7 675.0,336.6 675.0,333.9 664.5,328.0"/>
 <polygon class="c0" points="675.0,336.6 685.5,330.7 685.5,328.0 675.0,333.9"/>
 <polygon class="a0" points="675.0,322.1 685.5,328.0 675.0,333.9 664.5,328.0"/>
-<g style="--d:1.59s;--ny:-24.3px">
-<g transform="translate(687.8 330.7) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(698.3 336.6) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="698.3,324.9 708.8,330.7 698.3,336.6 687.8,330.7"/>
-</g>
+<polygon class="b0" points="687.8,330.7 698.3,336.6 698.3,333.9 687.8,328.0"/>
+<polygon class="c0" points="698.3,336.6 708.8,330.7 708.8,328.0 698.3,333.9"/>
+<polygon class="a0" points="698.3,322.1 708.8,328.0 698.3,333.9 687.8,328.0"/>
 <polygon class="b0" points="559.5,337.2 570.0,343.1 570.0,340.4 559.5,334.5"/>
 <polygon class="c0" points="570.0,343.1 580.5,337.2 580.5,334.5 570.0,340.4"/>
 <polygon class="a0" points="570.0,328.6 580.5,334.5 570.0,340.4 559.5,334.5"/>
@@ -952,16 +1012,12 @@
 <polygon class="b0" points="652.8,337.2 663.3,343.1 663.3,340.4 652.8,334.5"/>
 <polygon class="c0" points="663.3,343.1 673.8,337.2 673.8,334.5 663.3,340.4"/>
 <polygon class="a0" points="663.3,328.6 673.8,334.5 663.3,340.4 652.8,334.5"/>
-<g style="--d:1.63s;--ny:-24.3px">
-<g transform="translate(676.2 337.2) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(686.7 343.1) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="686.7,331.4 697.2,337.2 686.7,343.1 676.2,337.2"/>
-</g>
-<g style="--d:1.63s;--ny:-24.3px">
-<g transform="translate(699.5 337.2) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(710.0 343.1) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="710.0,331.4 720.5,337.2 710.0,343.1 699.5,337.2"/>
-</g>
+<polygon class="b0" points="676.2,337.2 686.7,343.1 686.7,340.4 676.2,334.5"/>
+<polygon class="c0" points="686.7,343.1 697.2,337.2 697.2,334.5 686.7,340.4"/>
+<polygon class="a0" points="686.7,328.6 697.2,334.5 686.7,340.4 676.2,334.5"/>
+<polygon class="b0" points="699.5,337.2 710.0,343.1 710.0,340.4 699.5,334.5"/>
+<polygon class="c0" points="710.0,343.1 720.5,337.2 720.5,334.5 710.0,340.4"/>
+<polygon class="a0" points="710.0,328.6 720.5,334.5 710.0,340.4 699.5,334.5"/>
 <polygon class="b0" points="571.2,343.8 581.7,349.6 581.7,346.9 571.2,341.0"/>
 <polygon class="c0" points="581.7,349.6 592.2,343.8 592.2,341.0 581.7,346.9"/>
 <polygon class="a0" points="581.7,335.2 592.2,341.0 581.7,346.9 571.2,341.0"/>
@@ -971,231 +1027,175 @@
 <polygon class="b0" points="617.8,343.8 628.3,349.6 628.3,346.9 617.8,341.0"/>
 <polygon class="c0" points="628.3,349.6 638.8,343.8 638.8,341.0 628.3,346.9"/>
 <polygon class="a0" points="628.3,335.2 638.8,341.0 628.3,346.9 617.8,341.0"/>
-<g style="--d:1.66s;--ny:-66.7px">
-<g transform="translate(641.2 343.8) skewY(29.21)"><rect class="g b4" y="-66.7" width="10.5" height="66.7"/></g>
-<g transform="translate(651.7 349.6) skewY(-29.21)"><rect class="g c4" y="-66.7" width="10.5" height="66.7"/></g>
-<polygon class="t a4" points="651.7,337.9 662.2,343.8 651.7,349.6 641.2,343.8"/>
-</g>
-<g style="--d:1.66s;--ny:-24.3px">
-<g transform="translate(664.5 343.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(675.0 349.6) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="675.0,337.9 685.5,343.8 675.0,349.6 664.5,343.8"/>
-</g>
-<g style="--d:1.66s;--ny:-104.0px">
-<g transform="translate(687.8 343.8) skewY(29.21)"><rect class="g b4" y="-104.0" width="10.5" height="104.0"/></g>
-<g transform="translate(698.3 349.6) skewY(-29.21)"><rect class="g c4" y="-104.0" width="10.5" height="104.0"/></g>
-<polygon class="t a4" points="698.3,337.9 708.8,343.8 698.3,349.6 687.8,343.8"/>
-</g>
-<g style="--d:1.66s;--ny:-24.3px">
-<g transform="translate(711.2 343.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(721.7 349.6) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="721.7,337.9 732.2,343.8 721.7,349.6 711.2,343.8"/>
-</g>
+<polygon class="b0" points="641.2,343.8 651.7,349.6 651.7,346.9 641.2,341.0"/>
+<polygon class="c0" points="651.7,349.6 662.2,343.8 662.2,341.0 651.7,346.9"/>
+<polygon class="a0" points="651.7,335.2 662.2,341.0 651.7,346.9 641.2,341.0"/>
+<polygon class="b0" points="664.5,343.8 675.0,349.6 675.0,346.9 664.5,341.0"/>
+<polygon class="c0" points="675.0,349.6 685.5,343.8 685.5,341.0 675.0,346.9"/>
+<polygon class="a0" points="675.0,335.2 685.5,341.0 675.0,346.9 664.5,341.0"/>
+<polygon class="b0" points="687.8,343.8 698.3,349.6 698.3,346.9 687.8,341.0"/>
+<polygon class="c0" points="698.3,349.6 708.8,343.8 708.8,341.0 698.3,346.9"/>
+<polygon class="a0" points="698.3,335.2 708.8,341.0 698.3,346.9 687.8,341.0"/>
+<polygon class="b0" points="711.2,343.8 721.7,349.6 721.7,346.9 711.2,341.0"/>
+<polygon class="c0" points="721.7,349.6 732.2,343.8 732.2,341.0 721.7,346.9"/>
+<polygon class="a0" points="721.7,335.2 732.2,341.0 721.7,346.9 711.2,341.0"/>
 <polygon class="b0" points="582.8,350.3 593.3,356.2 593.3,353.4 582.8,347.6"/>
 <polygon class="c0" points="593.3,356.2 603.8,350.3 603.8,347.6 593.3,353.4"/>
 <polygon class="a0" points="593.3,341.7 603.8,347.6 593.3,353.4 582.8,347.6"/>
 <polygon class="b0" points="606.2,350.3 616.7,356.2 616.7,353.4 606.2,347.6"/>
 <polygon class="c0" points="616.7,356.2 627.2,350.3 627.2,347.6 616.7,353.4"/>
 <polygon class="a0" points="616.7,341.7 627.2,347.6 616.7,353.4 606.2,347.6"/>
-<g style="--d:1.69s;--ny:-24.3px">
-<g transform="translate(629.5 350.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(640.0 356.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="640.0,344.4 650.5,350.3 640.0,356.2 629.5,350.3"/>
-</g>
-<g style="--d:1.69s;--ny:-24.3px">
-<g transform="translate(652.8 350.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(663.3 356.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="663.3,344.4 673.8,350.3 663.3,356.2 652.8,350.3"/>
-</g>
-<g style="--d:1.69s;--ny:-24.3px">
-<g transform="translate(676.2 350.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(686.7 356.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="686.7,344.4 697.2,350.3 686.7,356.2 676.2,350.3"/>
-</g>
-<g style="--d:1.69s;--ny:-24.3px">
-<g transform="translate(699.5 350.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(710.0 356.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="710.0,344.4 720.5,350.3 710.0,356.2 699.5,350.3"/>
-</g>
-<g style="--d:1.70s;--ny:-24.3px">
-<g transform="translate(722.8 350.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(733.3 356.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="733.3,344.4 743.8,350.3 733.3,356.2 722.8,350.3"/>
-</g>
+<polygon class="b0" points="629.5,350.3 640.0,356.2 640.0,353.4 629.5,347.6"/>
+<polygon class="c0" points="640.0,356.2 650.5,350.3 650.5,347.6 640.0,353.4"/>
+<polygon class="a0" points="640.0,341.7 650.5,347.6 640.0,353.4 629.5,347.6"/>
+<polygon class="b0" points="652.8,350.3 663.3,356.2 663.3,353.4 652.8,347.6"/>
+<polygon class="c0" points="663.3,356.2 673.8,350.3 673.8,347.6 663.3,353.4"/>
+<polygon class="a0" points="663.3,341.7 673.8,347.6 663.3,353.4 652.8,347.6"/>
+<polygon class="b0" points="676.2,350.3 686.7,356.2 686.7,353.4 676.2,347.6"/>
+<polygon class="c0" points="686.7,356.2 697.2,350.3 697.2,347.6 686.7,353.4"/>
+<polygon class="a0" points="686.7,341.7 697.2,347.6 686.7,353.4 676.2,347.6"/>
+<polygon class="b0" points="699.5,350.3 710.0,356.2 710.0,353.4 699.5,347.6"/>
+<polygon class="c0" points="710.0,356.2 720.5,350.3 720.5,347.6 710.0,353.4"/>
+<polygon class="a0" points="710.0,341.7 720.5,347.6 710.0,353.4 699.5,347.6"/>
+<polygon class="b0" points="722.8,350.3 733.3,356.2 733.3,353.4 722.8,347.6"/>
+<polygon class="c0" points="733.3,356.2 743.8,350.3 743.8,347.6 733.3,353.4"/>
+<polygon class="a0" points="733.3,341.7 743.8,347.6 733.3,353.4 722.8,347.6"/>
 <polygon class="b0" points="594.5,356.8 605.0,362.7 605.0,360.0 594.5,354.1"/>
 <polygon class="c0" points="605.0,362.7 615.5,356.8 615.5,354.1 605.0,360.0"/>
 <polygon class="a0" points="605.0,348.2 615.5,354.1 605.0,360.0 594.5,354.1"/>
-<g style="--d:1.72s;--ny:-24.3px">
-<g transform="translate(617.8 356.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(628.3 362.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="628.3,350.9 638.8,356.8 628.3,362.7 617.8,356.8"/>
-</g>
-<g style="--d:1.73s;--ny:-24.3px">
-<g transform="translate(641.2 356.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(651.7 362.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="651.7,350.9 662.2,356.8 651.7,362.7 641.2,356.8"/>
-</g>
-<g style="--d:1.73s;--ny:-24.3px">
-<g transform="translate(664.5 356.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(675.0 362.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="675.0,350.9 685.5,356.8 675.0,362.7 664.5,356.8"/>
-</g>
-<g style="--d:1.73s;--ny:-39.4px">
-<g transform="translate(687.8 356.8) skewY(29.21)"><rect class="g b3" y="-39.4" width="10.5" height="39.4"/></g>
-<g transform="translate(698.3 362.7) skewY(-29.21)"><rect class="g c3" y="-39.4" width="10.5" height="39.4"/></g>
-<polygon class="t a3" points="698.3,350.9 708.8,356.8 698.3,362.7 687.8,356.8"/>
-</g>
-<g style="--d:1.73s;--ny:-24.3px">
-<g transform="translate(711.2 356.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(721.7 362.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="721.7,350.9 732.2,356.8 721.7,362.7 711.2,356.8"/>
-</g>
-<g style="--d:1.73s;--ny:-24.3px">
-<g transform="translate(734.5 356.8) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(745.0 362.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="745.0,350.9 755.5,356.8 745.0,362.7 734.5,356.8"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(606.2 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(616.7 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="616.7,357.5 627.2,363.3 616.7,369.2 606.2,363.3"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(629.5 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(640.0 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="640.0,357.5 650.5,363.3 640.0,369.2 629.5,363.3"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(652.8 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(663.3 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="663.3,357.5 673.8,363.3 663.3,369.2 652.8,363.3"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(676.2 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(686.7 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="686.7,357.5 697.2,363.3 686.7,369.2 676.2,363.3"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(699.5 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(710.0 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="710.0,357.5 720.5,363.3 710.0,369.2 699.5,363.3"/>
-</g>
-<g style="--d:1.76s;--ny:-24.3px">
-<g transform="translate(722.8 363.3) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(733.3 369.2) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="733.3,357.5 743.8,363.3 733.3,369.2 722.8,363.3"/>
-</g>
+<polygon class="b0" points="617.8,356.8 628.3,362.7 628.3,360.0 617.8,354.1"/>
+<polygon class="c0" points="628.3,362.7 638.8,356.8 638.8,354.1 628.3,360.0"/>
+<polygon class="a0" points="628.3,348.2 638.8,354.1 628.3,360.0 617.8,354.1"/>
+<polygon class="b0" points="641.2,356.8 651.7,362.7 651.7,360.0 641.2,354.1"/>
+<polygon class="c0" points="651.7,362.7 662.2,356.8 662.2,354.1 651.7,360.0"/>
+<polygon class="a0" points="651.7,348.2 662.2,354.1 651.7,360.0 641.2,354.1"/>
+<polygon class="b0" points="664.5,356.8 675.0,362.7 675.0,360.0 664.5,354.1"/>
+<polygon class="c0" points="675.0,362.7 685.5,356.8 685.5,354.1 675.0,360.0"/>
+<polygon class="a0" points="675.0,348.2 685.5,354.1 675.0,360.0 664.5,354.1"/>
+<polygon class="b0" points="687.8,356.8 698.3,362.7 698.3,360.0 687.8,354.1"/>
+<polygon class="c0" points="698.3,362.7 708.8,356.8 708.8,354.1 698.3,360.0"/>
+<polygon class="a0" points="698.3,348.2 708.8,354.1 698.3,360.0 687.8,354.1"/>
+<polygon class="b0" points="711.2,356.8 721.7,362.7 721.7,360.0 711.2,354.1"/>
+<polygon class="c0" points="721.7,362.7 732.2,356.8 732.2,354.1 721.7,360.0"/>
+<polygon class="a0" points="721.7,348.2 732.2,354.1 721.7,360.0 711.2,354.1"/>
+<polygon class="b0" points="734.5,356.8 745.0,362.7 745.0,360.0 734.5,354.1"/>
+<polygon class="c0" points="745.0,362.7 755.5,356.8 755.5,354.1 745.0,360.0"/>
+<polygon class="a0" points="745.0,348.2 755.5,354.1 745.0,360.0 734.5,354.1"/>
+<polygon class="b0" points="606.2,363.3 616.7,369.2 616.7,366.5 606.2,360.6"/>
+<polygon class="c0" points="616.7,369.2 627.2,363.3 627.2,360.6 616.7,366.5"/>
+<polygon class="a0" points="616.7,354.7 627.2,360.6 616.7,366.5 606.2,360.6"/>
+<polygon class="b0" points="629.5,363.3 640.0,369.2 640.0,366.5 629.5,360.6"/>
+<polygon class="c0" points="640.0,369.2 650.5,363.3 650.5,360.6 640.0,366.5"/>
+<polygon class="a0" points="640.0,354.7 650.5,360.6 640.0,366.5 629.5,360.6"/>
+<polygon class="b0" points="652.8,363.3 663.3,369.2 663.3,366.5 652.8,360.6"/>
+<polygon class="c0" points="663.3,369.2 673.8,363.3 673.8,360.6 663.3,366.5"/>
+<polygon class="a0" points="663.3,354.7 673.8,360.6 663.3,366.5 652.8,360.6"/>
+<polygon class="b0" points="676.2,363.3 686.7,369.2 686.7,366.5 676.2,360.6"/>
+<polygon class="c0" points="686.7,369.2 697.2,363.3 697.2,360.6 686.7,366.5"/>
+<polygon class="a0" points="686.7,354.7 697.2,360.6 686.7,366.5 676.2,360.6"/>
+<polygon class="b0" points="699.5,363.3 710.0,369.2 710.0,366.5 699.5,360.6"/>
+<polygon class="c0" points="710.0,369.2 720.5,363.3 720.5,360.6 710.0,366.5"/>
+<polygon class="a0" points="710.0,354.7 720.5,360.6 710.0,366.5 699.5,360.6"/>
+<polygon class="b0" points="722.8,363.3 733.3,369.2 733.3,366.5 722.8,360.6"/>
+<polygon class="c0" points="733.3,369.2 743.8,363.3 743.8,360.6 733.3,366.5"/>
+<polygon class="a0" points="733.3,354.7 743.8,360.6 733.3,366.5 722.8,360.6"/>
 <polygon class="b0" points="746.2,363.3 756.7,369.2 756.7,366.5 746.2,360.6"/>
 <polygon class="c0" points="756.7,369.2 767.2,363.3 767.2,360.6 756.7,366.5"/>
 <polygon class="a0" points="756.7,354.7 767.2,360.6 756.7,366.5 746.2,360.6"/>
-<g style="--d:1.79s;--ny:-24.3px">
-<g transform="translate(617.8 369.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(628.3 375.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="628.3,364.0 638.8,369.9 628.3,375.7 617.8,369.9"/>
-</g>
-<g style="--d:1.79s;--ny:-24.3px">
-<g transform="translate(641.2 369.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(651.7 375.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="651.7,364.0 662.2,369.9 651.7,375.7 641.2,369.9"/>
-</g>
-<g style="--d:1.79s;--ny:-24.3px">
-<g transform="translate(664.5 369.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(675.0 375.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="675.0,364.0 685.5,369.9 675.0,375.7 664.5,369.9"/>
-</g>
-<g style="--d:1.80s;--ny:-24.3px">
-<g transform="translate(687.8 369.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(698.3 375.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="698.3,364.0 708.8,369.9 698.3,375.7 687.8,369.9"/>
-</g>
-<g style="--d:1.80s;--ny:-53.4px">
-<g transform="translate(711.2 369.9) skewY(29.21)"><rect class="g b4" y="-53.4" width="10.5" height="53.4"/></g>
-<g transform="translate(721.7 375.7) skewY(-29.21)"><rect class="g c4" y="-53.4" width="10.5" height="53.4"/></g>
-<polygon class="t a4" points="721.7,364.0 732.2,369.9 721.7,375.7 711.2,369.9"/>
-</g>
+<polygon class="b0" points="617.8,369.9 628.3,375.7 628.3,373.0 617.8,367.1"/>
+<polygon class="c0" points="628.3,375.7 638.8,369.9 638.8,367.1 628.3,373.0"/>
+<polygon class="a0" points="628.3,361.3 638.8,367.1 628.3,373.0 617.8,367.1"/>
+<polygon class="b0" points="641.2,369.9 651.7,375.7 651.7,373.0 641.2,367.1"/>
+<polygon class="c0" points="651.7,375.7 662.2,369.9 662.2,367.1 651.7,373.0"/>
+<polygon class="a0" points="651.7,361.3 662.2,367.1 651.7,373.0 641.2,367.1"/>
+<polygon class="b0" points="664.5,369.9 675.0,375.7 675.0,373.0 664.5,367.1"/>
+<polygon class="c0" points="675.0,375.7 685.5,369.9 685.5,367.1 675.0,373.0"/>
+<polygon class="a0" points="675.0,361.3 685.5,367.1 675.0,373.0 664.5,367.1"/>
+<polygon class="b0" points="687.8,369.9 698.3,375.7 698.3,373.0 687.8,367.1"/>
+<polygon class="c0" points="698.3,375.7 708.8,369.9 708.8,367.1 698.3,373.0"/>
+<polygon class="a0" points="698.3,361.3 708.8,367.1 698.3,373.0 687.8,367.1"/>
+<polygon class="b0" points="711.2,369.9 721.7,375.7 721.7,373.0 711.2,367.1"/>
+<polygon class="c0" points="721.7,375.7 732.2,369.9 732.2,367.1 721.7,373.0"/>
+<polygon class="a0" points="721.7,361.3 732.2,367.1 721.7,373.0 711.2,367.1"/>
 <polygon class="b0" points="734.5,369.9 745.0,375.7 745.0,373.0 734.5,367.1"/>
 <polygon class="c0" points="745.0,375.7 755.5,369.9 755.5,367.1 745.0,373.0"/>
 <polygon class="a0" points="745.0,361.3 755.5,367.1 745.0,373.0 734.5,367.1"/>
-<g style="--d:1.80s;--ny:-24.3px">
-<g transform="translate(757.9 369.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(768.4 375.7) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="768.4,364.0 778.9,369.9 768.4,375.7 757.9,369.9"/>
-</g>
-<g style="--d:1.83s;--ny:-24.3px">
-<g transform="translate(629.5 376.4) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(640.0 382.3) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="640.0,370.5 650.5,376.4 640.0,382.3 629.5,376.4"/>
-</g>
-<g style="--d:1.83s;--ny:-24.3px">
-<g transform="translate(652.8 376.4) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(663.3 382.3) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="663.3,370.5 673.8,376.4 663.3,382.3 652.8,376.4"/>
-</g>
-<g style="--d:1.83s;--ny:-24.3px">
-<g transform="translate(676.2 376.4) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(686.7 382.3) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="686.7,370.5 697.2,376.4 686.7,382.3 676.2,376.4"/>
-</g>
+<polygon class="b0" points="757.9,369.9 768.4,375.7 768.4,373.0 757.9,367.1"/>
+<polygon class="c0" points="768.4,375.7 778.9,369.9 778.9,367.1 768.4,373.0"/>
+<polygon class="a0" points="768.4,361.3 778.9,367.1 768.4,373.0 757.9,367.1"/>
+<polygon class="b0" points="629.5,376.4 640.0,382.3 640.0,379.5 629.5,373.7"/>
+<polygon class="c0" points="640.0,382.3 650.5,376.4 650.5,373.7 640.0,379.5"/>
+<polygon class="a0" points="640.0,367.8 650.5,373.7 640.0,379.5 629.5,373.7"/>
+<polygon class="b0" points="652.8,376.4 663.3,382.3 663.3,379.5 652.8,373.7"/>
+<polygon class="c0" points="663.3,382.3 673.8,376.4 673.8,373.7 663.3,379.5"/>
+<polygon class="a0" points="663.3,367.8 673.8,373.7 663.3,379.5 652.8,373.7"/>
+<polygon class="b0" points="676.2,376.4 686.7,382.3 686.7,379.5 676.2,373.7"/>
+<polygon class="c0" points="686.7,382.3 697.2,376.4 697.2,373.7 686.7,379.5"/>
+<polygon class="a0" points="686.7,367.8 697.2,373.7 686.7,379.5 676.2,373.7"/>
 <polygon class="b0" points="699.5,376.4 710.0,382.3 710.0,379.5 699.5,373.7"/>
 <polygon class="c0" points="710.0,382.3 720.5,376.4 720.5,373.7 710.0,379.5"/>
 <polygon class="a0" points="710.0,367.8 720.5,373.7 710.0,379.5 699.5,373.7"/>
 <polygon class="b0" points="722.8,376.4 733.3,382.3 733.3,379.5 722.8,373.7"/>
 <polygon class="c0" points="733.3,382.3 743.8,376.4 743.8,373.7 733.3,379.5"/>
 <polygon class="a0" points="733.3,367.8 743.8,373.7 733.3,379.5 722.8,373.7"/>
-<g style="--d:1.86s;--ny:-24.3px">
-<g transform="translate(641.2 382.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(651.7 388.8) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="651.7,377.0 662.2,382.9 651.7,388.8 641.2,382.9"/>
-</g>
-<g style="--d:1.86s;--ny:-24.3px">
-<g transform="translate(664.5 382.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(675.0 388.8) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="675.0,377.0 685.5,382.9 675.0,388.8 664.5,382.9"/>
-</g>
+<polygon class="b0" points="746.2,376.4 756.7,382.3 756.7,379.5 746.2,373.7"/>
+<polygon class="c0" points="756.7,382.3 767.2,376.4 767.2,373.7 756.7,379.5"/>
+<polygon class="a0" points="756.7,367.8 767.2,373.7 756.7,379.5 746.2,373.7"/>
+<polygon class="b0" points="641.2,382.9 651.7,388.8 651.7,386.1 641.2,380.2"/>
+<polygon class="c0" points="651.7,388.8 662.2,382.9 662.2,380.2 651.7,386.1"/>
+<polygon class="a0" points="651.7,374.3 662.2,380.2 651.7,386.1 641.2,380.2"/>
+<polygon class="b0" points="664.5,382.9 675.0,388.8 675.0,386.1 664.5,380.2"/>
+<polygon class="c0" points="675.0,388.8 685.5,382.9 685.5,380.2 675.0,386.1"/>
+<polygon class="a0" points="675.0,374.3 685.5,380.2 675.0,386.1 664.5,380.2"/>
 <polygon class="b0" points="687.8,382.9 698.3,388.8 698.3,386.1 687.8,380.2"/>
 <polygon class="c0" points="698.3,388.8 708.8,382.9 708.8,380.2 698.3,386.1"/>
 <polygon class="a0" points="698.3,374.3 708.8,380.2 698.3,386.1 687.8,380.2"/>
-<g style="--d:1.87s;--ny:-24.3px">
-<g transform="translate(711.2 382.9) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(721.7 388.8) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="721.7,377.0 732.2,382.9 721.7,388.8 711.2,382.9"/>
-</g>
-<g style="--d:1.90s;--ny:-24.3px">
-<g transform="translate(652.8 389.4) skewY(29.21)"><rect class="g b2" y="-24.3" width="10.5" height="24.3"/></g>
-<g transform="translate(663.3 395.3) skewY(-29.21)"><rect class="g c2" y="-24.3" width="10.5" height="24.3"/></g>
-<polygon class="t a2" points="663.3,383.6 673.8,389.4 663.3,395.3 652.8,389.4"/>
-</g>
+<polygon class="b0" points="711.2,382.9 721.7,388.8 721.7,386.1 711.2,380.2"/>
+<polygon class="c0" points="721.7,388.8 732.2,382.9 732.2,380.2 721.7,386.1"/>
+<polygon class="a0" points="721.7,374.3 732.2,380.2 721.7,386.1 711.2,380.2"/>
+<polygon class="b0" points="734.5,382.9 745.0,388.8 745.0,386.1 734.5,380.2"/>
+<polygon class="c0" points="745.0,388.8 755.5,382.9 755.5,380.2 745.0,386.1"/>
+<polygon class="a0" points="745.0,374.3 755.5,380.2 745.0,386.1 734.5,380.2"/>
+<polygon class="b0" points="652.8,389.4 663.3,395.3 663.3,392.6 652.8,386.7"/>
+<polygon class="c0" points="663.3,395.3 673.8,389.4 673.8,386.7 663.3,392.6"/>
+<polygon class="a0" points="663.3,380.8 673.8,386.7 663.3,392.6 652.8,386.7"/>
 <polygon class="b0" points="676.2,389.4 686.7,395.3 686.7,392.6 676.2,386.7"/>
 <polygon class="c0" points="686.7,395.3 697.2,389.4 697.2,386.7 686.7,392.6"/>
 <polygon class="a0" points="686.7,380.8 697.2,386.7 686.7,392.6 676.2,386.7"/>
 <polygon class="b0" points="699.5,389.4 710.0,395.3 710.0,392.6 699.5,386.7"/>
 <polygon class="c0" points="710.0,395.3 720.5,389.4 720.5,386.7 710.0,392.6"/>
 <polygon class="a0" points="710.0,380.8 720.5,386.7 710.0,392.6 699.5,386.7"/>
+<polygon class="b0" points="722.8,389.4 733.3,395.3 733.3,392.6 722.8,386.7"/>
+<polygon class="c0" points="733.3,395.3 743.8,389.4 743.8,386.7 733.3,392.6"/>
+<polygon class="a0" points="733.3,380.8 743.8,386.7 733.3,392.6 722.8,386.7"/>
 <polygon class="b0" points="664.5,396.0 675.0,401.8 675.0,399.1 664.5,393.2"/>
 <polygon class="c0" points="675.0,401.8 685.5,396.0 685.5,393.2 675.0,399.1"/>
 <polygon class="a0" points="675.0,387.4 685.5,393.2 675.0,399.1 664.5,393.2"/>
 <polygon class="b0" points="687.8,396.0 698.3,401.8 698.3,399.1 687.8,393.2"/>
 <polygon class="c0" points="698.3,401.8 708.8,396.0 708.8,393.2 698.3,399.1"/>
 <polygon class="a0" points="698.3,387.4 708.8,393.2 698.3,399.1 687.8,393.2"/>
+<polygon class="b0" points="711.2,396.0 721.7,401.8 721.7,399.1 711.2,393.2"/>
+<polygon class="c0" points="721.7,401.8 732.2,396.0 732.2,393.2 721.7,399.1"/>
+<polygon class="a0" points="721.7,387.4 732.2,393.2 721.7,399.1 711.2,393.2"/>
 <polygon class="b0" points="676.2,402.5 686.7,408.4 686.7,405.6 676.2,399.8"/>
 <polygon class="c0" points="686.7,408.4 697.2,402.5 697.2,399.8 686.7,405.6"/>
 <polygon class="a0" points="686.7,393.9 697.2,399.8 686.7,405.6 676.2,399.8"/>
 </g>
-<text class="mo" x="82.3" y="87.0">Oct</text>
-<text class="mo" x="175.7" y="139.2">Dec</text>
-<text class="mo" x="222.3" y="165.3">Jan</text>
-<text class="mo" x="269.0" y="191.4">Feb</text>
-<text class="mo" x="315.7" y="217.5">Mar</text>
-<text class="mo" x="374.0" y="250.1">Apr</text>
-<text class="mo" x="420.7" y="276.2">May</text>
-<text class="mo" x="479.0" y="308.8">Jun</text>
-<text class="mo" x="525.7" y="334.9">Jul</text>
-<text class="mo" x="572.3" y="361.0">Aug</text>
-<text class="mo" x="630.7" y="393.6">Sep</text>
-<text class="mo" x="677.3" y="419.7">Oct</text>
-<text class="lb" x="846" y="21" text-anchor="end">1 year total</text>
-<text x="846" y="63" text-anchor="end"><tspan class="bv">58</tspan><tspan class="un" dx="7">contributions</tspan></text>
-<text class="sb" x="846" y="82" text-anchor="end">Oct 12, 2025 — Oct 11, 2026</text>
+<text class="mo" x="94.0" y="93.5">Jan</text>
+<text class="mo" x="140.7" y="119.6">Feb</text>
+<text class="mo" x="187.3" y="145.7">Mar</text>
+<text class="mo" x="245.7" y="178.3">Apr</text>
+<text class="mo" x="292.3" y="204.4">May</text>
+<text class="mo" x="350.7" y="237.0">Jun</text>
+<text class="mo" x="397.3" y="263.1">Jul</text>
+<text class="mo" x="444.0" y="289.2">Aug</text>
+<text class="mo" x="502.3" y="321.8">Sep</text>
+<text class="mo" x="549.0" y="347.9">Oct</text>
+<text class="mo" x="595.7" y="374.0">Nov</text>
+<text class="mo" x="654.0" y="406.7">Dec</text>
+<text class="lb" x="846" y="21" text-anchor="end">2026 total</text>
+<text x="846" y="63" text-anchor="end"><tspan class="bv">60</tspan><tspan class="un" dx="7">contributions</tspan></text>
+<text class="sb" x="846" y="82" text-anchor="end">Jan 1, 2026 — Dec 31, 2026</text>
 <text class="lb" x="846" y="113" text-anchor="end">Busiest day</text>
 <text x="846" y="155" text-anchor="end"><tspan class="bv">7</tspan><tspan class="un" dx="7">contributions</tspan></text>
 <text class="sb" x="846" y="174" text-anchor="end">Sep 7</text>
@@ -1203,8 +1203,8 @@
 <text x="14" y="310" text-anchor="start"><tspan class="bv">35</tspan><tspan class="un" dx="7">days</tspan></text>
 <text class="sb" x="14" y="329" text-anchor="start">Aug 26 — Sep 29</text>
 <text class="lb" x="14" y="360" text-anchor="start">Current streak</text>
-<text x="14" y="402" text-anchor="start"><tspan class="bv">1</tspan><tspan class="un" dx="7">day</tspan></text>
-<text class="sb" x="14" y="421" text-anchor="start">Oct 11 — Oct 11</text>
+<text x="14" y="402" text-anchor="start"><tspan class="bv">0</tspan><tspan class="un" dx="7">days</tspan></text>
+<text class="sb" x="14" y="421" text-anchor="start">—</text>
 <text class="sb" x="846" y="458" text-anchor="end">More</text>
 <rect class="a4" x="797" y="449" width="11" height="11" rx="2"/>
 <rect class="a3" x="782" y="449" width="11" height="11" rx="2"/>
