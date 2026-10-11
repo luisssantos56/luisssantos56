@@ -46,24 +46,40 @@ PALETTES = {
 
 
 # ---------------------------------------------------------------- data ----
-def build_grid(days):
+def build_grid(days, year=None):
+    """Columns are weeks, rows are weekdays (Sunday on top).
+
+    With `year`, it is that calendar year (what the profile's "N contributions
+    in YYYY" panel shows): Jan 1 through Dec 31, drawn up to the last day with
+    data. Without it, the rolling last 365 days.
+    """
     counts = {}
     for d in days:
         c = d.get("count", 0)
         if c and c > 0:
             counts[d["date"]] = counts.get(d["date"], 0) + c
-    end = max(datetime.date.fromisoformat(d["date"]) for d in days)
-    start = end - datetime.timedelta(days=364)
-    start -= datetime.timedelta(days=(start.weekday() + 1) % 7)  # back to Sunday
+    last = max(datetime.date.fromisoformat(d["date"]) for d in days)
+    if year:
+        first_day = datetime.date(year, 1, 1)
+        end = datetime.date(year, 12, 31)
+        last = min(last, end)
+    else:
+        end = last
+        first_day = end - datetime.timedelta(days=364)
+    start = first_day - datetime.timedelta(days=(first_day.weekday() + 1) % 7)  # back to Sunday
+    lo = first_day if year else start
     cells = []
     i = 0
     cur = start
     while cur <= end:
         key = cur.isoformat()
-        cells.append({"date": key, "count": counts.get(key, 0), "week": i // 7, "day": i % 7, "level": 0})
+        cells.append({
+            "date": key, "count": counts.get(key, 0), "week": i // 7, "day": i % 7, "level": 0,
+            "drawn": lo <= cur <= last,
+        })
         cur += datetime.timedelta(days=1)
         i += 1
-    nz = sorted(c["count"] for c in cells if c["count"] > 0)
+    nz = sorted(c["count"] for c in cells if c["drawn"] and c["count"] > 0)
     busy = nz[int(math.floor(0.95 * (len(nz) - 1)))] if nz else 0
     for c in cells:
         n = c["count"]
@@ -142,8 +158,11 @@ def num(n):
 # --------------------------------------------------------------- render ----
 def render(data, theme, scale=16.5, width=860):
     pal = PALETTES[theme]
-    cells, weeks, mx = build_grid(data["days"])
-    stats = compute_stats(cells)
+    year = data.get("year")
+    cells, weeks, mx = build_grid(data["days"], year)
+    stats = compute_stats([c for c in cells if c["drawn"]])
+    total = data.get("total", stats["total"])  # the number the profile panel shows
+    period = str(year) if year else "1 year"
     S = scale
 
     def sx(x, y):
@@ -173,7 +192,7 @@ def render(data, theme, scale=16.5, width=860):
     a = out.append
     a(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="{width}" height="{height}" '
       f'role="img" aria-labelledby="t d">')
-    a(f'<title id="t">{num(stats["total"])} {noun(stats["total"])} in the last year</title>')
+    a(f'<title id="t">{num(total)} {noun(total)} in {period if year else "the last year"}</title>')
     a(f'<desc id="d">Isometric skyline of the last year of GitHub activity for {data.get("username", "")}: '
       f'one tower per day, taller means more contributions.</desc>')
 
@@ -202,6 +221,8 @@ def render(data, theme, scale=16.5, width=860):
     # ---- towers, far to near ----
     a('<g class="city">')
     for c in sorted(cells, key=lambda c: (c["week"] + c["day"], c["week"])):
+        if not c["drawn"]:
+            continue
         lv = c["level"]
         h = bar_height(c["count"], mx)
         H = h * CE * S
@@ -231,7 +252,7 @@ def render(data, theme, scale=16.5, width=860):
     labels = []
     for w in range(weeks):
         d = datetime.date.fromisoformat(cells[w * 7]["date"])
-        if d.month != prev:
+        if d.month != prev and any(c["drawn"] for c in cells[w * 7:w * 7 + 7]):
             labels.append((w, MONTHS[d.month - 1]))
         prev = d.month
     if len(labels) > 1 and labels[1][0] - labels[0][0] < 3:
@@ -253,7 +274,7 @@ def render(data, theme, scale=16.5, width=860):
     bd = stats["busiest"]
     ln, lstart, lend = stats["longest"]
     cn, cstart, cend = stats["current"]
-    stat(width - 14, 8, "end", "1 year total", num(stats["total"]), noun(stats["total"]), rng(stats["first"], stats["last"], True))
+    stat(width - 14, 8, "end", f"{period} total", num(total), noun(total), rng(stats["first"], stats["last"], True))
     stat(width - 14, 100, "end", "Busiest day", num(bd[0]), noun(bd[0]), fmt(bd[1]))
     bottom = height - foot_pad - 4
     stat(14, bottom - 176, "start", "Longest streak", num(ln), noun(ln, "day"), rng(lstart, lend))

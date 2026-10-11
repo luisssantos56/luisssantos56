@@ -1,11 +1,17 @@
 name: Update contribution skyline
 
-# Rebuilds the animated 3D contribution skyline from your real GitHub data.
-# Runs daily, on demand, and whenever the generator or this workflow changes.
+# Rebuilds the animated 3D contribution skyline for the current calendar year,
+# matching the profile's "N contributions in YYYY" panel.
+# Runs every 3 hours, on demand, and whenever the generator or this workflow changes.
+#
+# Optional secret CONTRIB_TOKEN (a personal access token with `read:user`):
+# when present the data is fetched as the profile owner, which includes private
+# contributions exactly like the owner's own profile view. Without it the public
+# view is used.
 
 "on":
   schedule:
-    - cron: "17 6 * * *"   # ~06:17 UTC every day
+    - cron: "17 */3 * * *"   # every 3 hours
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -29,9 +35,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Fetch real contribution data (no token needed)
+      - name: Fetch contribution data for the year
         env:
           GH_PROFILE_USER: Luisssantos56
+          CONTRIB_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
         run: python scripts/fetch_contributions.py
 
       - name: Render skyline SVGs (light + dark)
